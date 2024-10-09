@@ -1,4 +1,4 @@
-# llama-3.2-multimodal
+# Llama-3.2-multimodal
 
 ## Llama 3.2 Multimodal
 Meta has recently launched it's new set of large language models and are calling it Llama 3.2. The two largest models of the Llama 3.2 collection, 11B and 90B, support image reasoning use cases, such as document-level understanding including charts and graphs, captioning of images, and visual grounding tasks such as directionally pinpointing objects in images based on natural language descriptions. 

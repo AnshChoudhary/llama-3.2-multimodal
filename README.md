@@ -24,7 +24,7 @@ recipe_name='Idli Sambar' ingredients=['Idli batter', 'Split yellow lentils', 'T
 ```
 
 ## Image captured through live feed
-
+![Coca Cola Zero](https://github.com/AnshChoudhary/llama-3.2-multimodal/blob/main/screenshot.jpg)
 
 ## Output Text
 Available cameras: [0, 1]

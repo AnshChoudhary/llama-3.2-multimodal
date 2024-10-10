@@ -28,11 +28,18 @@ recipe_name='Idli Sambar' ingredients=['Idli batter', 'Split yellow lentils', 'T
 
 ## Output Text
 Available cameras: [0, 1]
+ 
 Enter the camera index to use: 1
+
 Initializing camera... Please wait.
+
 Camera feed opened. Press 'q' to capture an image.
+
 Image captured successfully.
+
 Enter your prompt for the image: what do you see in this image? what is the person holding?
+
+
 The image appears to be a photograph of someone holding up a bottle with a red label in front of a wall with orange stripes and a dart board hanging. It is not possible to see the person holding the bottle but looks more like they might be taking a selfie with the bottle in front of them.
 
 There are also wooden cupboards containing a mirror displayed on the left-hand side of the wall. In their right hand, the person is holding a Coca-Cola bottle marked “"Zero Sugar" with the Coca-Cola signature font written on a red label. Directly below it is a white label stating that the bottle is made from “100% recycled plastic”. Below that, the bottle is dark as the Coke is clearly contained within it. Above the bottle, there appears to be some water in the top of the bottle or perhaps condensation on the bottle. It is difficult to tell which, however, owing to the bad quality of the picture. Overall, the image displays a Coca-Cola item from front. Whether this was intended to be a selfie of a person with a bottle or a close-up of a Coca-Cola bottle with the person in the background is unclear owing to the quality of the picture.

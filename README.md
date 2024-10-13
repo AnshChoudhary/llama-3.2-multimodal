@@ -43,3 +43,8 @@ Enter your prompt for the image: what do you see in this image? what is the pers
 The image appears to be a photograph of someone holding up a bottle with a red label in front of a wall with orange stripes and a dart board hanging. It is not possible to see the person holding the bottle but looks more like they might be taking a selfie with the bottle in front of them.
 
 There are also wooden cupboards containing a mirror displayed on the left-hand side of the wall. In their right hand, the person is holding a Coca-Cola bottle marked “"Zero Sugar" with the Coca-Cola signature font written on a red label. Directly below it is a white label stating that the bottle is made from “100% recycled plastic”. Below that, the bottle is dark as the Coke is clearly contained within it. Above the bottle, there appears to be some water in the top of the bottle or perhaps condensation on the bottle. It is difficult to tell which, however, owing to the bad quality of the picture. Overall, the image displays a Coca-Cola item from front. Whether this was intended to be a selfie of a person with a bottle or a close-up of a Coca-Cola bottle with the person in the background is unclear owing to the quality of the picture.
+
+
+# JARVIS
+
+If you have watched any of the Iron Man movies, you must be familiar with the AI voice assistant JARVIS. Creating something like JARVIS has always been a dream of me. With the new Llama 3.2 multimodal model, it is now possible to have an AI-powered voice assistant that is also able to see and comprehend pictures. Adding this feature to JARVIS would mean that you could ask JARVIS anything about whatever you are looking at just by asking it to run an inference on the frame taken from the camera live feed. 

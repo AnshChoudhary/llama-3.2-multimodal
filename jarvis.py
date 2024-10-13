@@ -70,7 +70,7 @@ def listen_for_wake_word(recognizer, microphone):
         except sr.UnknownValueError:
             pass
         except sr.RequestError:
-            print("Could not request results from speech recognition service")
+            print("Could not find results from speech recognition service")
 
 def get_voice_input(recognizer, microphone):
     with microphone as source:

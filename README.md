@@ -46,4 +46,4 @@ There are also wooden cupboards containing a mirror displayed on the left-hand s
 
 # JARVIS
 
-If you have watched any of the Iron Man movies, you must be familiar with the AI voice assistant JARVIS. Creating something like JARVIS has always been a dream of me. With the new Llama 3.2 multimodal model, it is now possible to have an AI-powered voice assistant that is also able to see and comprehend pictures. Adding this feature to JARVIS would mean that you could ask JARVIS anything about whatever you are looking at just by asking it to run an inference on the frame taken from the camera live feed. 
+If you have watched any of the Iron Man movies, you must be familiar with the AI voice assistant JARVIS. Creating something like JARVIS has always been a dream of mine. With the new Llama 3.2 multimodal model, it is now possible to have an AI-powered voice assistant that is also able to see and comprehend pictures. Adding this feature to JARVIS would mean that you could ask JARVIS anything about whatever you are looking at just by asking it to run an inference on the frame taken from the camera live feed. 

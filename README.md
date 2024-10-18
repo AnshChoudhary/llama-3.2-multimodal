@@ -6,6 +6,18 @@ For example, a person could ask a question about which month in the previous yea
 ![Llama](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4fd651-e75f-47a6-8280-b66a78d25bbe_800x322.png)
 
 In this repository, we are going to use the Llama 3.2 90b parameters model using fireworks.ai api to run inference on image inputs and then asking the model questions related to the image in the form of prompts. We will also use the [Instructor](https://pypi.org/project/instructor/) library to help us provide structured outputs from large language models (LLMs)
+
+## Input (Financial Chart)
+![Financial Chart](https://cdn.boldbi.com/wp/blogs/unlocking-financial-insights/area-chart-example.webp)
+## Output 
+```
+chart_title='Revenue Growth Trend' 
+
+key_findings='Revenue peaked in November at $927K.', 'There was a significant increase in revenue from July to November.', 'Revenue declined by 25% from November to December.'
+
+insights='The chart shows a steady increase in revenue from July to November, with a significant spike to $927K in November. However, it declines by 25% in December.'
+```
+
 ## Input Image
 ![Toy Story](https://mickeyblog.com/wp-content/uploads/2018/11/2018-11-05-20_41_02-Toy-Story-4_-Trailer-Story-Cast-Every-Update-You-Need-To-Know-720x340.png)
 
